@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Anonym0usse/Anonym0usse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About-us
 
-Here are some ideas to get you started:
+- github link : https://github.com/Anonym0usse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- discord server link : https://discord.gg/HQXUja8Wa6
+
+# INFOS
+- We are anonymousse.
+- we will only create batch files
+- because we want to honor principles.
+- We are a group of only 3 people 
+- and we are against the AXON TEAM
