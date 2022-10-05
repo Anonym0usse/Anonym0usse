@@ -8,7 +8,7 @@
 
 # INFOS
 
-- We are anonymousse
+- We are anonymousse #0969DA
 - we will only create batch files
 - because we want to honor principles.
 - We are a group of only 3 people 
