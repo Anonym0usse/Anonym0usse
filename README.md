@@ -8,7 +8,7 @@
 
 # INFOS
 
-- We are anonymousse.rgb(R,G,B)
+- We are anonymousse
 - we will only create batch files
 - because we want to honor principles.
 - We are a group of only 3 people 
