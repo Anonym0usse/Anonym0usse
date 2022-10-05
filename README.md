@@ -4,7 +4,7 @@
 
 - github link : https://github.com/Anonym0usse
 
-- discord server link : https://discord.gg/HQXUja8Wa6
+- discord server link : https://discord.gg/Qbwz4HgYB3
 
 # INFOS
 
