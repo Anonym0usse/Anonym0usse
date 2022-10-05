@@ -8,7 +8,6 @@
 
 # INFOS
 
-`#0969DA`
 - We are anonymousse
 - we will only create batch files
 - because we want to honor principles.
